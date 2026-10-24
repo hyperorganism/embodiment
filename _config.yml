@@ -1,0 +1,17 @@
+remote_theme: jseeio/minima
+logo_header:
+  src: https://hyperorganism.github.io/assets/logo-mark.svg
+  text: hyperorganism
+  href: https://hyperorganism.github.io/
+  height: 30
+header_pages:
+- null
+minima:
+  social_links:
+    github: hyperorganism
+    twitter: hyperorganism
+defaults:
+- scope:
+    path: README.md
+  values:
+    layout: page
